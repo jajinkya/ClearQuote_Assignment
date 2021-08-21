@@ -48,7 +48,8 @@ Trained it for 10000 epochs, and get training side loss with leariing rate:
  "Recall": .649
  
  ```
- Testing Log:
+ Testing Log: 
+ ![alt_text](https://github.com/jajinkya/ClearQuote_Assignment/blob/main/evaluation_log.PNG)
  
 
 Cite:
