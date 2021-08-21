@@ -49,8 +49,14 @@ Trained it for 10000 epochs, and get training side loss with leariing rate:
  
  ```
  Testing Log: 
+ 
  ![alt_text](https://github.com/jajinkya/ClearQuote_Assignment/blob/main/evaluation_log.PNG)
  
+
+Inference on Some Images:
+
+![alt text](https://github.com/jajinkya/ClearQuote_Assignment/blob/main/img1.PNG)
+
 
 Cite:
 ```
