@@ -35,6 +35,10 @@ Trained it for 10000 epochs, and get training side loss with leariing rate:
 'Loss/total_loss': 0.16385211,
 'learning_rate': 0.029201299`
  ```
+ 
+ Training Log on Tensorboard:  
+ ![alt text](https://github.com/jajinkya/ClearQuote_Assignment/blob/main/Train_log.PNG)
+ 
  For test data:   
  
  ![alt text](https://github.com/jajinkya/ClearQuote_Assignment/blob/main/Evaluation.PNG)
@@ -44,6 +48,8 @@ Trained it for 10000 epochs, and get training side loss with leariing rate:
  "Recall": .649
  
  ```
+ Testing Log:
+ 
 
 Cite:
 ```
